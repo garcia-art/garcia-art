@@ -13,12 +13,13 @@ Sou Técnico em Informática pelo IFMG - Campus Formiga e atualmente sou estagi�
 <p align="left">
   <a href="https://www.linkedin.com/in/garcialgt" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-  <a href="http://api.whatsapp.com/send?phone=5537999288997" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   
   <a href="mailto:lucasgarcia.art@gmail.com" alt="Instagram">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- <a href="http://api.whatsapp.com/send?phone=5537999288997" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> -->
+  
+  
 </p>
 
 <h3>Tecnologias</h3>
