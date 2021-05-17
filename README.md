@@ -1,9 +1,9 @@
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" min-width="450px" max-width="450px" width="450px" height="300px" align="right" alt="Logo inicio">    
 
 <h3> 🗝 &nbsp;Sobre mim </h3>
-Prazer, sou o Garcia, sou <strong>desenvolvedor front end</strong> e aqui registro minhas experiências e projetos.<br>
+Prazer, sou o Garcia. Sou <strong>desenvolvedor front end</strong> e aqui registro minhas experiências e projetos.<br>
 Este portfólio está em <strong>processo de construção</strong>, pouco a pouco vou adicionando novas experiências.<br>
-Sou Técnico em Informática pelo IFMG - Campus Formiga.<br>
+Sou Técnico em Informática pelo IFMG - Campus Formiga e atualmente sou estagiário em desenvolvimento web.<br>
 </p>
 
 <p align="left">
