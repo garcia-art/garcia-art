@@ -49,14 +49,8 @@ Sou Técnico em Informática pelo IFMG - Campus Formiga e atualmente sou estagi�
 <h3>Ferramentas</h3>
 <code><img height="30" src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="WINDOWS"/></code>
 <code><img height="30" src="https://img.shields.io/badge/linux-47423E?style=for-the-badge&logo=linux&logoColor=white" alt="LINUX"/></code>
-<code><img height="30" src="https://camo.githubusercontent.com/5b7886225855c2c5ac8bcc15effcb289c238c597680d61c24e5e7541af59ee10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465" alt="ANDROID"/></code>
 <code><img height="30" src="https://img.shields.io/badge/figma-CA4245?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA"/></code>
-<code><img height="30" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="WORD"/></code>
-<code><img height="30" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="POWERPOINT"/></code>
-<code><img height="30" src="https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" alt="VSCODE"/></code>
-<code><img height="30" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="EXCEL"/></code>
 <code><img height="30" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="STACK OVERFLOW"/></code>
-
 
 
 <p align="center">
