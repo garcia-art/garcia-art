@@ -1,6 +1,7 @@
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" min-width="450px" max-width="450px" width="450px" height="300px" align="right" alt="Logo inicio">
+&nbsp;<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" min-width="450px" max-width="450px" width="450px" height="300px" align="right" alt="Logo inicio">
+&nbsp;
 
-* * * * *
+
 <p>
 <h3> 🗝 &nbsp;Sobre mim </h3>
 Prazer, sou o Garcia. Sou <strong>desenvolvedor front end</strong> e aqui registro minhas experiências e projetos.<br>
@@ -41,9 +42,6 @@ Sou Técnico em Informática pelo IFMG - Campus Formiga e atualmente sou estagi�
 
 
 <h3>Em Andamento</h3>
-
-  <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT"/></code>
-  <code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT"/></code>
      <code><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="REDUX"/></code>
      <code><img height="30" src="https://img.shields.io/badge/API's%20rest-1199c9?style=for-the-badge&logo=API&logoColor=white" alt="API"/></code>
 
