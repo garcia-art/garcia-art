@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" min-width="450px" max-width="450px" width="450px" height="300px" align="right" alt="Logo inicio"><br>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" min-width="450px" max-width="450px" width="450px" height="300px" align="right" alt="Logo inicio" margin-bottom="50px">
 
 <h3> 🗝 &nbsp;Sobre mim </h3>
 Prazer, sou o Garcia. Sou <strong>desenvolvedor front end</strong> e aqui registro minhas experiências e projetos.<br>
