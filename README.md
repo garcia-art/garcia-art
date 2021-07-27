@@ -3,7 +3,7 @@
 <h3> 🗝 &nbsp;Sobre mim </h3>
 Prazer, sou o Garcia. Sou <strong>desenvolvedor front end</strong> e aqui registro minhas experiências e projetos.<br>
 Este portfólio está em <strong>processo de construção</strong>, pouco a pouco vou adicionando novas experiências.<br>
-Sou Técnico em Informática pelo IFMG - Campus Formiga e atualmente sou estagiário em desenvolvimento web.<br>
+Sou Técnico em Informática pelo IFMG - Campus Formiga e atualmente sou estagiário em desenvolvimento web front end.<br>
 </p>
 
 <p align="left">
