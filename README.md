@@ -40,8 +40,9 @@ Sou Técnico em Informática pelo IFMG - Campus Formiga e atualmente sou estagi�
    
 
 
-<h3>Em Andamento</h3>
+<h3>Em Andamento/Next Steps</h3>
      <code><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="REDUX"/></code>
+     <code><img height="30" src="https://img.shields.io/badge/Typescript-593D88?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPESCRIPT"/></code>
      
 
 
