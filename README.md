@@ -35,13 +35,14 @@ Sou Técnico em Informática pelo IFMG - Campus Formiga e atualmente sou estagi�
     <code><img height="30" src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLINT"/></code>
     <code><img height="30" src="https://img.shields.io/badge/prettier-334651?style=for-the-badge&logo=prettier&logoColor=white" alt="PRETTIER"/>
 </code>
+    <code><img height="30" src="https://img.shields.io/badge/API's%20rest-1199c9?style=for-the-badge&logo=API&logoColor=white" alt="API"/></code>
    
    
 
 
 <h3>Em Andamento</h3>
      <code><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="REDUX"/></code>
-     <code><img height="30" src="https://img.shields.io/badge/API's%20rest-1199c9?style=for-the-badge&logo=API&logoColor=white" alt="API"/></code>
+     
 
 
 <h3>Ferramentas</h3>
